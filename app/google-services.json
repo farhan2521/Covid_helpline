@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708217040471",
+    "project_id": "covid-helpline-2521",
+    "storage_bucket": "covid-helpline-2521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708217040471:android:fc7804a1e1b8d4208fbd12",
+        "android_client_info": {
+          "package_name": "com.example.covidhelpline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708217040471-8vvh9eh5i69ctvhiivu27fmd87gamdcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4o6v0B9-clduxURB2l3XU-6rZBkg0AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708217040471-8vvh9eh5i69ctvhiivu27fmd87gamdcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

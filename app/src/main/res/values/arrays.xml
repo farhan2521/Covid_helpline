@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_dummy_phone_no">
+        <item>12345678</item>
+        <item>76543</item>
+        <item>12345678</item>
+        <item>12345678</item>
+        <item>6543345678</item>
+        <item>12345678</item>
+        <item>12345678</item>
+        <item>12345678</item>
+        <item>12345678</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Oxygen</item>
+        <item>Bed</item>
+        <item>Remdesivir</item>
+        <item>Vaccine</item>
+    </string-array>
+
+</resources>
